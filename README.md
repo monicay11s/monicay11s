@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7&height=200&section=header&text=¡Hola!%20👋&fontSize=70&fontColor=5D5D5D&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=84B6F4&height=200&section=header&text=" alt="header" />
 </p>
 
 <h1 align="center">~ Monica Yllescas ~</h1>
@@ -13,7 +13,7 @@
   <a href="mailto:tu.email@ejemplo.com">
     <img src="https://img.shields.io/badge/📧_Email-E2F0D9?style=for-the-badge&logo=gmail&logoColor=5D5D5D" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/monica-yllescas-a0ba72331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/💼_LinkedIn-D9E8F5?style=for-the-badge&logo=linkedin&logoColor=5D5D5D" alt="LinkedIn" />
   </a>
 </p>
