@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7&height=200&section=header&text=¡Hola!%20👋&fontSize=70&fontColor=5D5D5D&animation=fadeIn&fontAlignY=38" alt="header" />
 </p>
 
-<h1 align="center">🌷 Monica Yils 🌷</h1>
+<h1 align="center">~ Monica Yllescas ~</h1>
 
 <h3 align="center">💻 Desarrolladora Frontend | ✨ Amante del diseño | 🌱 Aprendizaje continuo</h3>
 
@@ -24,11 +24,11 @@
   
 </div>
 
-## 🌈 Sobre mí
+## ~ Sobre mí ~
 
 ```yaml
-nombre: "Monica Yils"
-ubicación: "Ciudad, País"
+nombre: "Monica Yllescas"
+ubicación: "tlaxcala"
 intereses:
   - "Desarrollo web"
   - "Diseño UI/UX"
@@ -36,7 +36,6 @@ intereses:
   - "Aprendizaje continuo"
   
 actualmente:
-  trabajando_en: "Proyectos personales de desarrollo frontend"
+  trabajando_en: "Proyectos de desarrollo frontend"
   aprendiendo: "React, TypeScript y diseño de interfaces"
-  buscando: "Colaborar en proyectos open source"
-  contacto: "tu.email@ejemplo.com"
+  contacto: "yllescasmonica2@gmail.com"
