@@ -1,29 +1,42 @@
-<!-- Este código debe ir en tu archivo README.md -->
-<!-- GitHub soporta HTML limitado y emojis en sus READMEs -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7&height=200&section=header&text=¡Hola!%20👋&fontSize=70&fontColor=5D5D5D&animation=fadeIn&fontAlignY=38" alt="header" />
+</p>
 
-<h1 align="center">¡Hola! 👋 Soy Monica</h1>
+<h1 align="center">🌷 Monica Yils 🌷</h1>
 
-<h3 align="center">Desarrolladora apasionada por la tecnología</h3>
+<h3 align="center">💻 Desarrolladora Frontend | ✨ Amante del diseño | 🌱 Aprendizaje continuo</h3>
 
 <p align="center">
   <a href="https://github.com/monicay1ls?tab=repositories">
-    <img src="https://img.shields.io/badge/Portafolio-Visita_mis_proyectos-blue?style=for-the-badge&logo=github" alt="Portafolio">
+    <img src="https://img.shields.io/badge/👀_Portafolio-FFB6C1?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="mailto:tu.email@ejemplo.com">
+    <img src="https://img.shields.io/badge/📧_Email-E2F0D9?style=for-the-badge&logo=gmail&logoColor=5D5D5D" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-D9E8F5?style=for-the-badge&logo=linkedin&logoColor=5D5D5D" alt="LinkedIn" />
   </a>
 </p>
 
----
+<div align="center">
+  
+  ![Línea decorativa](https://user-images.githubusercontent.com/74038190/212284100-561aa539-2d6f-4c57-8e4f-1c2b06a8f7f4.gif)
+  
+</div>
 
-## 🚀 Sobre mí
+## 🌈 Sobre mí
 
-```markdown
-- 🔭 Actualmente estoy trabajando en: [nombre del proyecto]
-- 🌱 Actualmente estoy aprendiendo: [tecnologías/lenguajes]
-- 👯 Estoy buscando colaborar en: [tipo de proyectos]
-- 🤔 Estoy buscando ayuda con: [áreas específicas]
-- 💬 Pregúntame sobre: [tus especialidades]
-- 📫 Cómo contactarme: [tu email o redes]
-- 😄 Pronombres: [tus pronombres]
-- ⚡ Dato curioso: [algo interesante sobre ti]
+```yaml
+nombre: "Monica Yils"
+ubicación: "Ciudad, País"
+intereses:
+  - "Desarrollo web"
+  - "Diseño UI/UX"
+  - "Tecnología"
+  - "Aprendizaje continuo"
+  
+actualmente:
+  trabajando_en: "Proyectos personales de desarrollo frontend"
+  aprendiendo: "React, TypeScript y diseño de interfaces"
+  buscando: "Colaborar en proyectos open source"
+  contacto: "tu.email@ejemplo.com"
